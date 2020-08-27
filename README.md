@@ -1,6 +1,6 @@
 # Disney Assignment
 
-Foobar is a Python library for dealing with word pluralization.
+A simple MLB recap slideshow.
 
 ## Installation
 
